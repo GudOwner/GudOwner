@@ -11,4 +11,4 @@ I'm not afraid of difficulties. I am ready to consider proposals
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eggud_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Cylabby21@gmail.com)[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/EgorGudChannel)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eggud_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Cylabby21@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/EgorGudChannel)
