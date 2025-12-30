@@ -5,5 +5,6 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/https%3A%2F%2Ft.me%2FEgorGudChannel%2CTelegram%2Cwhite"/>
+ 
+  <img src="https://img.shields.io/badge/https%3A%2F%2Ft.me%2FEgorGudChannel%2CTelegram%2Cwhite" alt="LinkedIn Badge"/>
 </div>
