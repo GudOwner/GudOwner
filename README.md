@@ -5,6 +5,7 @@
 <h1 align="center">Hi there 👋, I'm Egor</h1>
 
 ## 🧑‍💻 About me
+ex participant of School 21 (franchise in Russia) who entered basic training
 I'm not afraid of difficulties and always ready to consider new proposals.  
 I love exploring new technologies and building things that matter.
 
@@ -20,4 +21,4 @@ I love exploring new technologies and building things that matter.
 ---
 
 ### 🌐 follow me: 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eggud_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Cylabby21@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/EgorGudChannel)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eggud_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Cylabby21@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/+Lg_LYStTGgwxZDdi)
